@@ -6,6 +6,7 @@
   - [External Resources](#external-resources)
   - [Official Examples](#official-examples)
   - [Community](#community)
+  - [Websites](#websites)
   - [Tutorials](#tutorials)
   - [Youtube Channels](#youtube-channels)
 - [Components & Libraries](#components-libraries)
@@ -23,7 +24,7 @@
 
 ### External Resources
 
-- [Learn Blazor](https://learn-blazor.com/) - A website for learning how Blazor works.
+- [learn-blazor.com](https://learn-blazor.com/) - Website for learning how Blazor works.
 
 ### Official Examples
 
@@ -36,6 +37,9 @@
 ### Community
 
 - [Official Gitter Chat](https://gitter.im/aspnet/Blazor)
+
+### Websites
+- [CodeDaze.io](https://codedaze.io/tag/blazor/) - Blog with section about Blazor.
 
 ### YouTube Channels
 
