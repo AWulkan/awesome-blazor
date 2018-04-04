@@ -23,9 +23,10 @@
 
 ### External Resources
 
-- [Learn Blazor](https://learn-blazor.com/) - A website for learningh how Blazor works.
+- [Learn Blazor](https://learn-blazor.com/) - A website for learning how Blazor works.
 
 ### Official Examples
+
 - [Official Example App](https://blazor-demo.github.io/)
 
 ### Tutorials
