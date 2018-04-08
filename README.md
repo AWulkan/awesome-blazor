@@ -10,7 +10,8 @@
   - [Tutorials](#tutorials)
   - [Youtube Channels](#youtube-channels)
 - [Components & Libraries](#components-libraries)
-- [JavaScript Interop](#javascript-interop)
+  - [State Management](#state-management)
+  - [JavaScript Interop](#javascript-interop)
 - [Projects Using Blazor](#projects-using-blazor)
 
 
@@ -47,13 +48,11 @@
 
 # Components & Libraries
 
-*Libraries*
+### State Management
 
 - [Blazor Redux](https://github.com/torhovland/blazor-redux) - Redux-style state management for Blazor, with support for both C# and F#.
 
-# Interop
-
-*Makes native javascript available in C#*
+### Interop
 
 - [blazoredjs](https://github.com/chrissainty/blazoredjs) - A library of common JavaScript APIs adapted for Blazor Applications.
 
