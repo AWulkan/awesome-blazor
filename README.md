@@ -10,7 +10,7 @@
   - [Tutorials](#tutorials)
   - [Youtube Channels](#youtube-channels)
 - [Components & Libraries](#components-libraries)
-  - [JavaScript Interop](#javascript-interop)
+- [JavaScript Interop](#javascript-interop)
 - [Projects Using Blazor](#projects-using-blazor)
 
 
@@ -47,7 +47,11 @@
 
 # Components & Libraries
 
-### Interop
+*Libraries*
+
+- [Blazor Redux](https://github.com/torhovland/blazor-redux) - Redux-style state management for Blazor, with support for both C# and F#.
+
+# Interop
 
 *Makes native javascript available in C#*
 
