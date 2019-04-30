@@ -1,3 +1,5 @@
+# Go here instead: https://github.com/AdrienTorris/awesome-blazor
+
 # Awesome Blazor
 > A collection of awesome things related to Blazor
 
